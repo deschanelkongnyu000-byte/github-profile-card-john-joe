@@ -1,4 +1,4 @@
 document.getElementById("greet").addEventListener("click", function() {
 
-    alert("Hello, My name is Amaha usher!");
+    alert("Hi There My name is Joel Amaha we are focused on impprovising and exploiting Knowledege Earned So far!");
 });
